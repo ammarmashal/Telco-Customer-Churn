@@ -1,14 +1,5 @@
 # Telco-Customer-Churn
 
-Hi
-
-I'm happy to share that I have finished the last project in TechnoHacks EduTech Official
-
-Telco Customer Churn
-
-Sandip Gavit
-
-
 
 What Is Customer Churn?
 
